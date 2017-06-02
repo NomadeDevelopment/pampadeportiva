@@ -1,0 +1,254 @@
+=== START test_database 2017-05-09 00:25:17 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2002] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder.
+<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:25:39 ===
+
+=== START test_database 2017-05-09 00:28:21 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2002] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder.
+<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:28:44 ===
+
+=== START test_database 2017-05-09 00:28:53 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2002] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder.
+<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:29:16 ===
+
+=== START test_database 2017-05-09 00:29:46 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:29:51 ===
+
+=== START test_database 2017-05-09 00:30:44 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:30:49 ===
+
+=== START test_database 2017-05-09 00:30:55 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:31:00 ===
+
+=== START test_database 2017-05-09 00:31:29 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:31:34 ===
+
+=== START test_database 2017-05-09 00:32:08 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:32:16 ===
+
+=== START test_database 2017-05-09 00:39:48 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2002] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder.
+<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:40:11 ===
+
+=== START test_database 2017-05-09 00:40:40 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:40:46 ===
+
+=== START test_database 2017-05-09 00:41:01 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:41:07 ===
+
+=== START test_database 2017-05-09 00:55:25 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-05-09 00:55:31 ===
+
+=== START test_database 2017-05-09 01:22:55 ===
+Connected with success to the Joomla database
+Joomla data found:
+13 categories
+2264 articles
+
+[WARNING] Your Joomla database contains several users. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Joomla database contains some tags. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+=== END test_database 2017-05-09 01:23:00 ===
+
+=== START import 2017-05-09 01:23:51 ===
+Connected with success to the Joomla database
+Joomla data found:
+13 categories
+2264 articles
+
+[WARNING] Your Joomla database contains several users. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Joomla database contains some tags. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+Importing categories...
+13 categories imported
+Importing posts...
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/balon.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2015/11/balon.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/tarjetas_amarillas_small.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2015/11/tarjetas_amarillas_small.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/tarjetas_rojas_small.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2015/11/tarjetas_rojas_small.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/referi.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2015/11/referi.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/cancha.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2015/11/cancha.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/file:///C:/Users/GUSTAVO/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2015/12/clip_image001.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/cancha.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/cancha.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/referi.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/referi.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/ferrodepico/ferro-interior-1.JPG to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/ferro-interior-1.JPG : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/cancha.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/cancha.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/referi.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/referi.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/roja.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/roja.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/cancha.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/cancha.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/referi.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/referi.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/ferrodepico/fe.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/fe.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/ferrodepico/fe2.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/fe2.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/ferrodepico/fe3.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/fe3.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/ferrodepico/fe4.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/fe4.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/ferrodepico/fe6.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/fe6.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/ferrodepico/fe7.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/fe7.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/ferrodepico/fe8.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/02/fe8.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/thumbs/magic-johnson-01-pampa.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/magic-johnson-01-pampa.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/magic-johnson-01-pampa.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/magic-johnson-01-pampa.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/thumbs/magic-johnson-01-pampa.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/magic-johnson-01-pampa.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/1810-050-4F18DB43.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/1810-050-4F18DB43.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/thumbs/1810-050-4F18DB43.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/1810-050-4F18DB43.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/Magic-Champ.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/Magic-Champ.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/thumbs/Magic-Champ.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/Magic-Champ.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/maxresdefault.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/maxresdefault.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/thumbs/maxresdefault.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/maxresdefault.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/tumblr_n2lahha2rp1qcmnsoo1_1280.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/tumblr_n2lahha2rp1qcmnsoo1_1280.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f678/thumbs/tumblr_n2lahha2rp1qcmnsoo1_1280.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/tumblr_n2lahha2rp1qcmnsoo1_1280.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f681/thumbs/12805834_957047474372163_7043340491134526339_n.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/12805834_957047474372163_7043340491134526339_n.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f681/12805834_957047474372163_7043340491134526339_n.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/12805834_957047474372163_7043340491134526339_n.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f681/thumbs/12805834_957047474372163_7043340491134526339_n.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/12805834_957047474372163_7043340491134526339_n.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/cancha.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/cancha.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/futbol/referi.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/referi.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/basinf4.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/basinf4.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/rygby1.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/03/rygby1.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/COSTA4.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/COSTA4.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/COSTA3.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/COSTA3.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/costa6.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/costa6.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/COSTA5.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/COSTA5.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas1.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas1.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas5.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas5.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas3.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas3.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas2.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas2.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas4.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas4.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas10.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas10.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas9.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas9.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas7.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas7.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/bas8.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/bas8.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/fer.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/fer.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/fer3.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/fer3.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/fer7.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/fer7.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/fer1.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/fer1.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/fer8.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/fer8.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/fer5.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/fer5.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa1.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa1.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa2.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa2.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa6.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa6.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa5.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa5.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa3.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa3.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa4.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa4.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa8.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa8.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa9.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa9.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa7.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa7.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/copa10.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/copa10.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/vertiz.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/vertiz.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/vertiz8.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/vertiz8.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/vertiz5.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/vertiz5.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/vertiz2.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/vertiz2.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/vertiz6.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/vertiz6.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/vertiz7.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/vertiz7.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/vertiz4.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/vertiz4.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/cultural.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/cultural.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/cultural2.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/cultural2.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/cultural1.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/cultural1.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/cultural4.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/cultural4.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/inf5.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/inf5.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/inf1.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/inf1.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/inf.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/inf.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/inf7.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/inf7.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/inf2.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/inf2.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/inf3.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/inf3.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/inf4.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/inf4.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/inf8.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/inf8.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ddd3aec7ee164ac8a46f99be395ec783.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/ddd3aec7ee164ac8a46f99be395ec783.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/fd2daac6972f420faee3b33d81f369c3.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/fd2daac6972f420faee3b33d81f369c3.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/alv6.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/alv6.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/alv8.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/alv8.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/alv5.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/alv5.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/alv7.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/alv7.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/alv2.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/alv2.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro5.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/ferro5.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro6.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/ferro6.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro4.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/ferro4.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro3.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/ferro3.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro9.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/ferro9.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro1.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/ferro1.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro2.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/ferro2.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro7.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/04/ferro7.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/95a922b10e954e8d8ee036d8845b0865__copia.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/06/95a922b10e954e8d8ee036d8845b0865__copia.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/381ac82e26a6434eb888a04a0f782e77__copia.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/06/381ac82e26a6434eb888a04a0f782e77__copia.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/1284db3aa96743fa844371b5287b458c.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/06/1284db3aa96743fa844371b5287b458c.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/sub1.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/07/sub1.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/Gim_1.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/Gim_1.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/Gim_3.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/Gim_3.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/Gim_2.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/Gim_2.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/Gim_5.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/Gim_5.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/Gim_6.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/Gim_6.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/Gim_7.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/Gim_7.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/Gim_8.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/Gim_8.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/100_4337.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/100_4337.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/100_4392.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/100_4392.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/100_4452.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/100_4452.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/result.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/10/result.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/resultados.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/11/resultados.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferrr.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/11/ferrr.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/triunfo.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/11/triunfo.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/11/ferro.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/resul.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/11/resul.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferroresul.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2016/12/ferroresul.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/provincial_1.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/provincial_1.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/fixture.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/fixture.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_234722.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_234722.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_234802.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_234802.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235015.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235015.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_234859.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_234859.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235257.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235257.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235342.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235342.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235539.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235539.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235629.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235629.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235759.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235759.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235837.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235837.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235936.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235936.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170222_000126.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170222_000126.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235155.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235155.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235058.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235058.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170222_000226.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170222_000226.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235718.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235718.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/20170221_235420.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/02/20170221_235420.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/resulto.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/03/resulto.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/empate.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/03/empate.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/ferro11.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/04/ferro11.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/fotos/resutlados.png to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/04/resutlados.png : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f2257/pri8-fill-666x444.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/05/pri8-fill-666x444.jpg : cURL error 18: transfer closed with outstanding read data remaining
+[ERROR] Can't copy http://webs/wordpress/pd/images/stories/com_form2content/p3/f2257/pri8-fill-666x444.jpg to E:\Escritorio\web\wamp64\www\wordpress/wp-content/uploads/sites/2/2017/05/pri8-fill-666x444.jpg : cURL error 18: transfer closed with outstanding read data remaining
+2264 posts imported
+0 medias imported
+0 tags imported
+Don't forget to modify internal links.
+IMPORT COMPLETE
+=== END import 2017-05-09 01:27:09 ===
+
